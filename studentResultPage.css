@@ -1,0 +1,100 @@
+thead{
+    background-color: gray;
+    border: 1px solid black;
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
+h3,h5{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.bio-table{
+    width: 500px;
+}
+.marks-table{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.CGPA-row{
+    background-color:rgb(170, 170, 0)
+}
+#query-div{
+    display: flex;
+    justify-content: center;
+}
+#query-btn{
+    background-color: maroon;
+    color: white;
+    border:none;
+    border-radius: 4px;
+    height:35px;
+}
+h6{
+    text-align: center;
+    margin-top: 10px;
+    color: maroon;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#back{
+   position: absolute;
+   left:15px;
+   color: white;
+   background: maroon;
+   top:10px;
+   border:none;
+   width:40px;
+   border-radius: 4px; 
+}
+#formmm{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+#formm input{
+    width: 20px;
+}
+.number-field{
+    width: 20px;
+    height:25px;
+    margin-right: 10px;
+}
+.select{
+    height:26px;
+    margin-left: 5px;
+    margin-right: 10px;
+    background-color: rgb(235, 235, 235);
+}
+.subBtn{
+    border: none;
+    color:white;
+    background-color: green;
+    height: 30px;
+    border-radius: 3px;
+    margin-top: -2px;
+}
+#sub{
+    display: flex;
+}
+.buttonSubmit{
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: green;
+    color:white;
+    border: none;
+    border-radius: 3px;
+}
+textarea{
+    margin-top: -8px;
+    margin-left: 70px;
+}

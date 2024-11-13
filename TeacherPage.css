@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
+button{
+    background-color: green;
+    width: 350px;
+    margin-bottom: 30px;
+    color: white;
+    border:none;
+    border-radius: 4px;
+    height: 38px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.name{
+    margin-right: 60px;
+}
+.back-home{
+    background-color: maroon;
+    color: white;
+    border:none;
+    width: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+h2{
+    margin-right:-16px;
+}
+#darkmode{
+    color:black;
+    width:50px
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logOut{
+    background-color: maroon;
+    color: white;
+    border:none;
+    width: 100px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+nav p{
+    margin-left: 50px;
+    font-weight:600;
+    font-family: Arial, Helvetica, sans-serif;
+}
